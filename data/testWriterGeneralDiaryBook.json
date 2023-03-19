@@ -1,0 +1,23 @@
+{
+     "name": "My Diary Book",
+     "diaryList": [
+          {
+               "date": "2021",
+               "mood": "Okay",
+               "weather": "Sunny",
+               "text": "HAHA"
+          },
+          {
+               "date": "2022",
+               "mood": "Meh",
+               "weather": "Rainy",
+               "text": "Meh"
+          },
+          {
+               "date": "2023",
+               "mood": "Calm",
+               "weather": "Cloudy",
+               "text": "Phew"
+          }
+     ]
+}
